@@ -1,7 +1,5 @@
 <template>
-  <router-view>
-    
-  </router-view>
+  Đây là trang quản lý user
 </template>
 
 <script>

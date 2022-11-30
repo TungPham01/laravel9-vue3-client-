@@ -1,7 +1,6 @@
 <template>
-  <router-view>
-    
-  </router-view>
+  layout administration
+  <router-view></router-view>
 </template>
 
 <script>
